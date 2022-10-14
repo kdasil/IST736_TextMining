@@ -21,6 +21,7 @@ A number of students have asked the question, “What is the main difference bet
 - Challenge wise: Text mining requires even more critical thinking as it is research oriented. The students are usually a mix of doctoral and masters students from multiple disciplines, such as iSchool, linguistics, communications, business, political science, etc.
 
 ***What is the difference between IST 736 Text Mining and IST 664 Natural Language Processing?***
+
 NLP and TM do share some foundations. NLP focuses on deep analysis of language, such as POS tagging, sentence structure parsing, named-entity recognition, semantic role labeling, etc. Deep analysis can be highly informative and also time consuming. In contrast, text mining focuses on using machine learning and large amounts of data for fast predictions, usually on shallow features like just words. Depending on real-world applications, sometimes we need deep analysis if time is not a concern, sometimes we do fast and shallow analysis, and sometimes combine both. IST 664 is not a prerequisite for IST 736.
 
 ## Learning Objectives
